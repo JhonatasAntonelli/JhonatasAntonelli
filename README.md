@@ -25,7 +25,7 @@
  
   ![Snake animation](https://github.com/JhonatasAntonelli/JhonatasAntonelli/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
 
 <!--
 **JhonatasAntonelli/JhonatasAntonelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
